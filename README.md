@@ -147,7 +147,7 @@ Focused analysis on Queensland state with staff and sector-specific metrics:
 - **Power BI Desktop**: Data modeling and visualization
 - **Power Query**: Data transformation and cleaning
 - **DAX (Data Analysis Expressions)**: Custom measures and calculations
-- **Excel**: Data source
+- **MySQL/Excel**: Data sources
 
 ## Getting Started
 
